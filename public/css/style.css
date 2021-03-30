@@ -1,0 +1,32 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    color:pink;
+    background-color: black;
+}
+h1{
+    text-align: center; 
+    margin-top: 2%;
+}
+
+.content{
+    margin-top: 3rem;
+    color: pink;
+    text-align: center;
+    background-color: blueviolet;
+    display: block;
+}
+.Rojo{
+    background-color: red;
+}
+.Azul{
+    background-color: blue;
+}
+.Verde{
+    background-color: green;
+}
+.Negro{
+    background-color: black;
+}
